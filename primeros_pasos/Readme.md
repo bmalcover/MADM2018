@@ -5,3 +5,8 @@ Tutorial iniciatico de Python en formato notebook, en el que se describen los el
 * Listas
 * Diccionarios
 * Generación de números aleatorios.
+
+Se proponen algunos ejercicios.
+
+
+Recordad que estos tutoriales los realizamos con la versión 3.X de Python ( en contreto la versión 3.6) y que utilizamos Anaconda como entorno (https://www.anaconda.com/) de aprendizaje.
